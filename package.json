@@ -1,6 +1,6 @@
 {
   "name": "@lavacord/eris",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The eris version of the lavacord library",
   "main": "dist/index",
   "types": "dist/index.d.ts",
